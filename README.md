@@ -193,10 +193,12 @@ void assert_failed(uint8_t *file, uint32_t line) {
 
 
 ## Output screen shots on serial monitor   :
-![image](https://github.com/SdMdZahi7/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/94187572/1d9ecf76-9e76-4217-9848-26e6e4f2d37e)
-![image](https://github.com/SdMdZahi7/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/94187572/c2f1c620-e28e-440a-b490-898dabdae3cf)
+
 ![image](https://github.com/SdMdZahi7/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/94187572/956d4ee1-e81b-4566-b7ce-7d8e4f89c702)
 ![image](https://github.com/SdMdZahi7/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/94187572/f3aa9c00-a70e-4286-b58e-1fa3a095ff0b)
+
+![image](https://github.com/SdMdZahi7/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/94187572/1d9ecf76-9e76-4217-9848-26e6e4f2d37e)
+![image](https://github.com/SdMdZahi7/EXPERIMENT--05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD-/assets/94187572/c2f1c620-e28e-440a-b490-898dabdae3cf)
 
  
  
